@@ -1,4 +1,17 @@
+dnspython
+fastapi
+httptools
+imblearn
+pip-chill
+python-dotenv
+uvicorn
+watchfiles
+websockets
+wincertstore
+xgboost
 pandas
+PyYAML
 numpy
-pymongo
+scikit-learn
+apache-airflow
 -e .
