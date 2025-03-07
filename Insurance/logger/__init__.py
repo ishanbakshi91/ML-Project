@@ -24,6 +24,6 @@ logging.basicConfig(filename=LOG_FIlE_PATH,
 filemode = "w",
 format = '[%(asctime)s] %(name)s - %(levelname)s - %(message)s',
 
-#level=logging.INFO,
-level=logging.DEBUG,
+level=logging.INFO,
+#level=logging.DEBUG,
 )
