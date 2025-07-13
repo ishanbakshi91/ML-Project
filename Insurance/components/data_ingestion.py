@@ -15,7 +15,7 @@ class DataIngestion: # data divided train, test & validate
         except Exception as e:
             raise InsuranceException(e, sys)
     
-    def intitate_data_ingestion(self)->artifact_entity.DataIngestionArtifact:
+    def initiate_data_ingestion(self)->artifact_entity.DataIngestionArtifact:
         try:
             logging.info(f"Export collection data as pandas DataFrame")
             df:pd.DataFrame = utils.get_collection_as_dataframe(
@@ -53,6 +53,7 @@ class DataIngestion: # data divided train, test & validate
                 train_file_path = self.data_ingestion_config.train_file_path,
                 test_file_path = self.data_ingestion_config.test_file_path
             )
+            return data_ingestion_artifact
 
 
         except Exception as e:
