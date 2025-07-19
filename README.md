@@ -10,8 +10,7 @@
 Application URL: [InsurancePremiumPredictor](https://ml-project-ishan-premium-prediction.streamlit.app)
 
 Application URL:<h4>Application URL:
-        <a href="https://ml-project-ishan-premium-prediction.streamlit.app" 
-           target="_blank"> InsurancePremiumPredictor
+        <a href="https://ml-project-ishan-premium-prediction.streamlit.app" target="_blank"> InsurancePremiumPredictor
         </a>
     </h4>
 
