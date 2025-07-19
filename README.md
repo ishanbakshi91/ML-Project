@@ -7,30 +7,47 @@
 ### The purpose of this data is to examine the different features and to observe their relationship. The ML model is based on several features of individuals, such as age, physical/family condition, and location, against their existing medical expenses to predict future medical expenses of individuals. This helps the medical insurance company to decide and charge the premium.
 
 ---
+## Table of contents
+* [About project](#about-project)
+* [Tech Stack used](#tech-stack-used)
+* [Setup](#setup)
+* [Project Architecture](#project-architecture)
+* [Project Pipeline](#project-pipeline)
 
 
-### Project Building
-
-- Upload the data in the Database
-- Data Ingestion
-- Data Validation
-- Data Transformation
-- Model Training
-- Model Analysis & Validation
-- Model Deployment
 
 
-### Tech Stack used:
+## Tech Stack used:
 
 - Python Modular Coding
 - Machine Learning
 - MongoDB Database
-- AWS Cloud
-- Apache
-- Docker
-- Grafana
-- DVC
-- MLFLOW
+- Jupyter Notebook
+- Git
+- CI/CD Pipeline
+- Streamlit
+
+## Setup
+Create a conda environment
+```
+conda create -p venv python==3.7 -y
+```
+
+activate conda environment
+```
+conda activate venv/
+```
+
+To install requirement file
+```
+pip install -r requirements.txt
+```
+
+* Add files to git  `git add .` or  `git add <file_name>`    
+* To check the git status  `git status`    
+* To check all version maintained by git  `git log`    
+* To create version/commit all changes by git  `git commit -m "message"`    
+* To send version/changes to github  `git push origin main`    
 
 
 ## Project Pipeline
@@ -40,6 +57,8 @@
 4. [Model Training](#4-model-training)
 5. [Model Evaluation](#5-model-evaluation)
 6. [Model Deployment](#6-model-deployment)
+
+
 
 <br>
 
