@@ -7,6 +7,10 @@
 ### The purpose of this data is to examine the different features and to observe their relationship. The ML model is based on several features of individuals, such as age, physical/family condition, and location, against their existing medical expenses to predict future medical expenses of individuals. This helps the medical insurance company to decide and charge the premium.
 
 ---
+Application URL: [InsurancePremiumPredictor](https://ml-project-ishan-premium-prediction.streamlit.app)
+
+<br>
+
 ## Table of contents
 * [About project](#about-project)
 * [Tech Stack used](#tech-stack-used)
