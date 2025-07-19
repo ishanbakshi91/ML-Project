@@ -74,5 +74,11 @@
 ### 6. Model Deployment
 * Deployment is the method by which we integrate a machine-learning model into the production environment to make practical business decisions based on data. 
 
+
+<p align="center">
+  <img src="https://lh5.googleusercontent.com/49NljwFVuPL1zR5z6rrBsLh8fEQBDTLCmG9Z9xScq1sLWdtR89KhtKS702hUDN566WIE42eems8Fb_y0jbb6N7Cv-noJ_W3pt7JDlblCE_0POna1AUAZ6aSNERqPC9nfMFrXL8g"/>
+  
+  
+  <br><br><br>
 <br>
 
