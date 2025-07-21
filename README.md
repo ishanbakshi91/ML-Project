@@ -39,7 +39,7 @@ This project aims to provide individuals with a personalised estimate of their h
 ## Setup
 Create a conda environment
 ```
-conda create -p venv python==3.12 -y
+conda create -p venv python==3.11 -y
 ```
 
 activate conda environment
@@ -57,6 +57,10 @@ pip install -r requirements.txt
 * To check all versions maintained by git  `git log`    
 * To create a version/commit all changes by git  `git commit -m "message"`    
 * To send version/changes to GitHub  `git push origin main`    
+
+## Project Architecture
+![architecture](<Project Architecture.drawio.png>)
+
 
 
 ## Project Pipeline
