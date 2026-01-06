@@ -17,7 +17,8 @@
 
 ## Table of contents
 * [About project](#about-project)
-* [Tech Stack used](#tech-stack-used)
+* [Tech Stack](#tech-stack)
+* [Libraries used](#libraries-used)
 * [Setup](#setup)
 * [Project Architecture](#project-architecture)
 * [Project Pipeline](#project-pipeline)
@@ -26,7 +27,7 @@
 ## About Project
 This project aims to provide individuals with a personalised estimate of their healthcare needs, enabling them to choose a health insurance plan that aligns with those needs. By focusing on the projected costs from our study, customers can prioritise the health-related aspects of insurance policies over less relevant features.
 
-## Tech Stack used:
+## Tech Stack:
 
 - Python Modular Coding
 - Machine Learning
@@ -35,6 +36,15 @@ This project aims to provide individuals with a personalised estimate of their h
 - Git
 - CI/CD Pipeline
 - Streamlit
+
+## Libraries used:
+    1) Pandas
+    2) Numpy
+    3) Matplotlib, Seaborn, Plotly
+    4) Scikit-Learn
+    5) Flask
+    6) HTML
+    7) CSS
 
 ## Setup
 Create a conda environment
